@@ -1,6 +1,6 @@
 {
   "name": "karma-hint",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Karma plugin for jshint",
   "main": "index.js",
   "scripts": {
